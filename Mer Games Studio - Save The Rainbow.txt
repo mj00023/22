@@ -21,7 +21,7 @@
 
 "adsswitch details":"0:auto  1 unity 2 iron 3 applovin ",	
 
-"adsswitch":"1"
+"adsswitch":"0"
 
 
 
