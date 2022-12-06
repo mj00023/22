@@ -1,0 +1,32 @@
+{
+	"version": "App name save v1",
+
+
+	
+	"unityid": "5062275",
+	"unitybanner": "Banner_Android",
+	"unityinter": "Interstitial_Android",
+	"unityreward": "Rewarded_Android",
+
+
+	"applovinsdk": "SCKmcRGwO3gkp4BrcPx2_m72ZXWOxulvN407P1SGB3KyTaDy_t_ogODgzvkNdPOTOW3WBxVlivTUwvKab5haU1",
+	"applovinbanner": "93077a78b9a9090a",
+	"applovininter": "ed216e95aff80f54",
+	"applovinreward": "9efddef3c9c65f40",
+
+    "ironsdk": "17a6b6f05",
+
+
+
+
+"adsswitch details":"0:auto  1 unity 2 iron 3 applovin ",	
+
+"adsswitch":"1"
+
+
+
+
+
+
+
+}
